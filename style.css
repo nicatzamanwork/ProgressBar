@@ -1,0 +1,10 @@
+#Main {
+    width: 100%;
+    background-color: #ddd;
+  }
+  
+  #Bar {
+    width: 1%;
+    height: 30px;
+    background-color: #bf0c0c;
+  }
